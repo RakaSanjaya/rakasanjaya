@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/your-github-username?label=Stars&style=flat-square&color=0e75b6&logo=github" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=RakaSanjaya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/RakaSanjaya?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/RakaSanjaya?label=Stars&style=flat-square&color=0e75b6&logo=github" alt="GitHub stars" />
 </div>
 
 ---
@@ -169,12 +169,12 @@ I'm a **Full Stack Web Developer** passionate about modern technologies and alwa
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RakaSanjaya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakaSanjaya&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakaSanjaya&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -182,7 +182,7 @@ I'm a **Full Stack Web Developer** passionate about modern technologies and alwa
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RakaSanjaya&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -190,7 +190,7 @@ I'm a **Full Stack Web Developer** passionate about modern technologies and alwa
 ## 📈 **Contribution Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakaSanjaya&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
 </div>
 
 ---
@@ -284,7 +284,7 @@ CSS          1 hr 10 mins   ██░░░░░░░░░░░░░░░�
 ## 📅 **Contribution Calendar**
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/your-github-username" alt="GitHub Contributions" />
+  <img src="https://ghchart.rshah.org/58a6ff/RakaSanjaya" alt="GitHub Contributions" />
 </div>
 
 ---
