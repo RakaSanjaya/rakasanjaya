@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Raka Sanjaya!
+# 👋 Hello, I'm Raka Sanjaya!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Problem%20Solver&descAlignY=55&descAlign=62" />
@@ -16,19 +16,19 @@
 
 ---
 
-## 🎯 **Tentang Saya**
+## 🎯 **About Me**
 
 > _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
-Saya adalah **Full Stack Web Developer** yang passionate dengan teknologi modern dan selalu siap menghadapi tantangan baru! 🚀
+I'm a **Full Stack Web Developer** passionate about modern technologies and always ready to tackle new challenges! 🚀
 
-- 🎓 **Pendidikan**: Mahasiswa IT di Universitas Brawijaya (IPK: 3.94/4.00)
-- 💼 **Pengalaman**: 1+ tahun di web development & digital marketing
-- 🌱 **Sedang Mendalami**: Next.js 15, MERN Stack Advanced, Cloud Technologies
+- 🎓 **Education**: IT Student at Brawijaya University (GPA: 3.94/4.00)
+- 💼 **Experience**: 1+ years in web development & digital marketing
+- 🌱 **Currently Learning**: Next.js 15, Advanced MERN Stack, Cloud Technologies
 - 🔥 **Passion**: Web Development, AI Applications, Digital Marketing
-- 🎨 **Hobby**: Coding, Traveling, Listening Music
-- 📍 **Lokasi**: Jakarta, Indonesia
-- 💬 **Ask me about**: JavaScript, React, Node.js, atau anything tech!
+- 🎨 **Hobbies**: Coding, Traveling, Listening to Music
+- 📍 **Location**: Jakarta, Indonesia
+- 💬 **Ask me about**: JavaScript, React, Node.js, or anything tech!
 
 <div align="center">
   <a href="mailto:sanjayaraka722@gmail.com">
@@ -40,7 +40,7 @@ Saya adalah **Full Stack Web Developer** yang passionate dengan teknologi modern
   <a href="https://raka-sanjaya.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="link-to-your-cv.pdf">
+  <a href="cv.pdf">
     <img src="https://img.shields.io/badge/Download%20CV-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
   </a>
 </div>
@@ -90,75 +90,79 @@ Saya adalah **Full Stack Web Developer** yang passionate dengan teknologi modern
 
 ---
 
-## 💼 **Pengalaman Kerja**
+## 💼 **Work Experience**
 
 ### 🏢 **PT Panca Alif Sukses** - _Web Developer_
 
 **Jun 2022 - Aug 2022 | Jakarta, Indonesia**
 
-- 🌐 Mengembangkan website profil perusahaan untuk meningkatkan online presence
-- 📊 Mengelola kampanye iklan Google Ads untuk meningkatkan brand visibility
-- 🎨 Membuat aset visual promosi yang mendukung tujuan marketing
+- 🌐 Developed company profile websites to enhance online presence
+- 📊 Managed Google Ads campaigns to increase brand visibility
+- 🎨 Created promotional visual assets supporting marketing objectives
 
 ### 🖨️ **JayaPrint** - _Web Developer Intern_
 
 **Jul 2023 - Sep 2023 | Jakarta, Indonesia**
 
-- 📱 Merancang landing pages untuk kampanye promosi dengan focus pada konversi
-- 💡 Membuat konten digital yang disesuaikan dengan strategi Facebook Ads & Google Ads
-- 📈 Menganalisis performa landing page menggunakan Google Analytics dan A/B testing
+- 📱 Designed landing pages for promotional campaigns with focus on conversion
+- 💡 Created digital content tailored to Facebook Ads & Google Ads strategies
+- 📈 Analyzed landing page performance using Google Analytics and A/B testing
 
 ---
 
-## 🚀 **Proyek Unggulan**
+## 🚀 **Featured Projects**
 
 ### 🎯 **ICASVE Conference Registration**
 
 **International Conference on Applied Science for Vocational Education**
 
 <div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/bootstrap-38B2AC?style=flat-square&logo=bootstrap&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Laravel_Breeze-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Breeze" />
 </div>
 
-- ✅ Sistem registrasi peserta yang efisien
-- 📅 Akses jadwal konferensi real-time
-- 🔐 Dashboard admin untuk manajemen peserta
-- 📱 Responsive design untuk semua device
+- ✅ Efficient participant registration system
+- 📅 Real-time conference schedule access
+- 🔐 Admin dashboard for participant management
+- 📱 Responsive design for all devices
 
 ### 🤖 **AI Stunting Checker**
 
-**Aplikasi Web untuk Deteksi Dini Stunting pada Anak**
+**Web Application for Early Detection of Stunting in Children**
 
 <div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Breeze-0f172a?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Breeze" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
 
-- 🧠 Menggunakan AI untuk analisis data pertumbuhan anak
-- 📊 Dashboard analitik yang intuitif
-- 🏥 Membantu tenaga kesehatan dalam pengambilan keputusan
-- 📈 Meningkatkan kesadaran kesehatan masyarakat
+- 🧠 Uses AI for children's growth data analysis
+- 📊 Intuitive analytics dashboard
+- 🏥 Assists healthcare professionals in decision-making
+- 📈 Increases public health awareness
 
 ### 📦 **Inventory Management System**
 
-**Sistem Manajemen Inventori dengan MERN Stack**
+**Inventory Management System with MERN Stack**
 
 <div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
 </div>
 
-- 📊 Tracking stok real-time
-- 🔔 Notifikasi otomatis untuk stok minimum
-- 📱 Interface yang user-friendly
-- 📈 Laporan analitik yang komprehensif
+
+- 📊 Real-time stock tracking
+- 🔔 Automatic notifications for minimum stock levels
+- 📱 User-friendly interface
+- 📈 Comprehensive analytical reports
 
 ---
 
@@ -207,30 +211,30 @@ CSS          1 hr 10 mins   ██░░░░░░░░░░░░░░░�
 
 ---
 
-## 🎓 **Sertifikasi & Pembelajaran**
+## 🎓 **Certifications & Learning**
 
 <details>
-<summary>🔥 <strong>Klik untuk melihat semua sertifikasi</strong></summary>
+<summary>🔥 <strong>Click to see all certifications</strong></summary>
 
 ### 🆕 **2025**
 
-- 🎯 **Belajar Dasar Pemrograman JavaScript** - Dicoding
-- 📚 **HTML, CSS dan JavaScript: Pemula sampai Mahir** - Udemy
-- 🔧 **Belajar GIT Lanjutan** - Codepolitan
+- 🎯 **Learn JavaScript Programming Fundamentals** - Dicoding
+- 📚 **HTML, CSS and JavaScript: Beginner to Advanced** - Udemy
+- 🔧 **Learn Advanced GIT** - Codepolitan
 
 ### 🚀 **2024**
 
-- 🌟 **Pengembangan Web Fullstack Laravel 11** - Codepolitan
-- 💻 **Pemrograman PHP** - Codepolitan
-- ⚡ **Belajar Express.js dan EJS** - Codepolitan
+- 🌟 **Laravel 11 Fullstack Web Development** - Codepolitan
+- 💻 **PHP Programming** - Codepolitan
+- ⚡ **Learn Express.js and EJS** - Codepolitan
 
 ### 💡 **2023**
 
-- 🏆 **Full Stack JavaScript Web Developer Tingkat Menengah** - ITBOX
-- ⚛️ **ReactJS Kelas Online** - Codepolitan
-- 🌐 **Belajar JavaScript** - Codepolitan
-- 📡 **Belajar AJAX dan Web API** - Codepolitan
-- 🗄️ **Belajar MongoDB** - Codepolitan
+- 🏆 **Intermediate Level Full Stack JavaScript Web Developer** - ITBOX
+- ⚛️ **ReactJS Online Class** - Codepolitan
+- 🌐 **Learn JavaScript** - Codepolitan
+- 📡 **Learn AJAX and Web API** - Codepolitan
+- 🗄️ **Learn MongoDB** - Codepolitan
 
 </details>
 
@@ -242,7 +246,7 @@ CSS          1 hr 10 mins   ██░░░░░░░░░░░░░░░�
   <table>
     <tr>
       <td align="center">🚀</td>
-      <td><strong>Master Next.js 14 & Server Components</strong></td>
+      <td><strong>Master Next.js 15 & Server Components</strong></td>
     </tr>
     <tr>
       <td align="center">☁️</td>
@@ -269,10 +273,10 @@ CSS          1 hr 10 mins   ██░░░░░░░░░░░░░░░�
 
 ---
 
-## 💭 **Motto Hidup**
+## 💭 **Life Motto**
 
 <div align="center">
-  <img src="https://readme-quotes-api.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=Gabriola" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </div>
 
 ---
@@ -287,12 +291,11 @@ CSS          1 hr 10 mins   ██░░░░░░░░░░░░░░░�
 
 ## 🎮 **Fun Facts**
 
-- 🎯 Saya bisa ngoding sambil dengerin musik selama 8+ jam non-stop
-- 🍕 Pizza adalah fuel utama saat ngoding malem
-- 🎪 Pernah bikin website dalam 24 jam untuk hackathon
-- 🚀 Dream job: Bekerja di startup unicorn atau bikin startup sendiri
-- 🎨 Hobi design dimulai dari bikin poster sekolah
-- 🌙 Night owl - produktif paling tinggi jam 10 malam - 2 pagi
+- 🎯 I can code while listening to music for 8+ hours non-stop
+- 🍕 Coffee is my main fuel when coding at night
+- 🚀 Dream job: Work at a unicorn startup or create my own startup
+- 🎨 My design hobby started from making school posters
+- 🌙 Night owl - most productive from 10 PM to 5 AM
 
 ---
 
@@ -309,15 +312,8 @@ CSS          1 hr 10 mins   ██░░░░░░░░░░░░░░░�
 
 ---
 
-## 📺 **Latest YouTube Videos**
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=60&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=60&descAlign=62" />
 </div>
 
 <div align="center">
@@ -326,4 +322,4 @@ CSS          1 hr 10 mins   ██░░░░░░░░░░░░░░░�
 
 ---
 
-**⚡ Fun fact:** Repo ini dibuat dengan ❤️ dan banyak ☕
+**⚡ Fun fact:** This repo was created with ❤️ and lots of ☕
