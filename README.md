@@ -158,7 +158,6 @@ I'm a **Full Stack Web Developer** passionate about modern technologies and alwa
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
 </div>
 
-
 - 📊 Real-time stock tracking
 - 🔔 Automatic notifications for minimum stock levels
 - 📱 User-friendly interface
@@ -299,18 +298,6 @@ CSS          1 hr 10 mins   ██░░░░░░░░░░░░░░░�
 
 ---
 
-## 🔥 **Latest GitHub Activity**
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#15](https://github.com/your-username/repo/pull/15) in [your-username/repo](https://github.com/your-username/repo)
-2. 💪 Opened PR [#14](https://github.com/your-username/repo/pull/14) in [your-username/repo](https://github.com/your-username/repo)
-3. 🎯 Pushed 3 commits to [your-username/repo](https://github.com/your-username/repo)
-4. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#123](https://github.com/facebook/react/issues/123) in [facebook/react](https://github.com/facebook/react)
-<!--END_SECTION:activity-->
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=60&descAlign=62" />
